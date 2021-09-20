@@ -1,0 +1,12 @@
+.ShippingPage {
+  width: 80%;
+  /* background-color: red; */
+  margin: 20px auto;
+  text-align: center;
+}
+
+@media (min-width: 600px) {
+  .ShippingPage {
+    width: 700px;
+  }
+}

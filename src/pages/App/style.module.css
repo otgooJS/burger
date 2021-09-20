@@ -1,0 +1,8 @@
+.Content {
+  /* 16+56=72 */
+  margin-top: 72px;
+}
+
+.Content p {
+  text-align: center;
+}
